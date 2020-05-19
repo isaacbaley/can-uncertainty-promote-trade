@@ -4,6 +4,8 @@ Code repository for ["Can Global Uncertainty Promote International Trade?"](http
 
 Journal of International Economics, May 2020
 
+10.5281/zenodo.3833761
+
 ---
 
 **PRELIMINARIES**
